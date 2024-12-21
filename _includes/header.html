@@ -94,7 +94,15 @@
           <li>
             <a target="_blank" href="https://scholar.google.com/citations?user={{ site.googlescholar_username| escape }}" class="button button--sacnite button--round-l">
               <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
-              <i class="ai ai-google-scholar" title="Google scholar link"></i>
+              <i class="ai ai-google-scholar" title="Google Scholar link"></i>
+            </a>
+          </li>
+        {%- endif -%}
+        {%- if site.medium_username -%}
+          <li>
+            <a target="_blank" href="https://medium.com/@{{ site.medium_username | escape }}" class="button button--sacnite button--round-l">
+              <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/brands.min.css">
+              <i class="fa fa-medium" title="Medium link"></i>
             </a>
           </li>
         {%- endif -%}
