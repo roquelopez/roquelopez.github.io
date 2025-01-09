@@ -73,7 +73,7 @@ content:
         link:
         link_text:
         additional_links:
-          - title:  Github
+          - title:  Code
             icon: fab fa-github
             url: https://github.com/VIDA-NYU/bdi-kit
 
@@ -91,7 +91,7 @@ content:
         link:
         link_text:
         additional_links:
-          - title:  Github
+          - title:  Code
             icon: fab fa-github
             url: https://gitlab.com/ViDA-NYU/d3m/alphad3m
 
@@ -122,7 +122,7 @@ content:
           - title:  Code
             icon: fab fa-github
             url: https://gitlab.com/ViDA-NYU/d3m/alphad3m
-          - title:  Video
+          - title:  Video Demo
             icon: fa fa-youtube-play
             url: https://www.youtube.com/watch?v=9qJvOUOh2zM
         description: | 
@@ -139,7 +139,7 @@ content:
           - title:  Code
             icon: fab fa-github
             url: https://github.com/VIDA-NYU/PipelineVis
-          - title:  Video
+          - title:  Video Demo
             icon: fa fa-youtube-play
             url: https://www.youtube.com/watch?v=2WSYoaxLLJ8
         description: | 
