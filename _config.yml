@@ -58,8 +58,8 @@ about_content: | # this will include new lines to allow paragraphs
 
   I am a research engineer at New York University (NYU), I have been involved in various research and development projects throughout my career.
 
-  Most of my background and experience is in applied machine learning and natural language processing, and I also have a interest
-  in reinforcement learning.
+  My background and experience are primarily in data integration, applied machine learning, and natural language processing. I also have a strong 
+  interest in reinforcement learning.
 
 
 content:
@@ -79,11 +79,10 @@ content:
 
         quote: 
         description: | # this will include new lines to allow paragraphs
-          BDI-Kit, a Python toolkit specifically designed to streamline biomedical data integration. 
-          BDI-Kit provides a suite of methods and intuitive APIs to facilitate the efficient harmonization of diverse datasets. 
-          By simplifying the integration process, BDI-Kit enables practitioners and researchers to create unified datasets. 
+          BDI-Kit is a toolkit for data integration and harmonization that offers a comprehensive suite of methods for schema and value matching. 
+          It can be used programmatically through a Python API or interactively via an AI agent using natural language queries.
           
-          This is part of the <a href="https://vida-nyu.github.io/BDF/" target="_blank">BDF project of ARPA-H</a>.
+          This work is part of the <a href="https://vida-nyu.github.io/BDF/" target="_blank">BDF project of ARPA-H</a>.
       - layout: left
         border:  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
@@ -97,10 +96,10 @@ content:
 
         quote: 
         description: | # this will include new lines to allow paragraphs
-          AlphaD3M, an AutoML library implemented in Python that automatically synthesizes end-to-end pipelines for different machine learning tasks and different data types.
+          AlphaD3M, an AutoML library implemented in Python that automatically synthesizes ML end-to-end pipelines for different machine learning tasks and different data types.
           Through an API, it allows the users to explore the input data and the derived pipelines, as well as customized the pipelines.
 
-          This tool is part of NYU's implementation of the <a href="https://vida.engineering.nyu.edu/research/d3m//" target="_blank"> Data Driven Discovery project (D3M), DARPA</a>.
+          This tool is part of NYU's implementation of the <a href="https://vida.engineering.nyu.edu/research/d3m/" target="_blank"> Data Driven Discovery project (D3M), DARPA</a>.
 
   - title: Publications # Title for the section
     layout: list # Type of content section (list/text)
@@ -114,6 +113,23 @@ content:
           Selected publications. For the complete list, please visit my <a href="https://scholar.google.com/citations?user=eCBvlNMAAAAJ" target="_blank">Google Scholar profile</a>.
 
       - layout: top
+        title: BDI-Kit&#58; An AI-Powered Toolkit for Biomedical Data Harmonization
+        additional_links:
+          - title:  Paper
+            icon: fas fa-file
+            url: https://www.cell.com/action/showPdf?pii=S2666-3899%2825%2900318-6
+          - title:  Code
+            icon: fab fa-github
+            url: https://github.com/VIDA-NYU/bdi-kit
+          - title:  Demo Video
+            icon: fa fa-youtube-play
+            url: https://drive.google.com/file/d/1gMlZuocYrKFQYDZOphIyFj-nvjtx4ODR/view
+        description: | 
+          Roque Lopez, Aécio Santos, Christos Koutras, Juliana Freire
+          
+          Patterns, 2026
+
+      - layout: top
         title: AlphaD3M&#58; An Open-Source AutoML Library for Multiple ML Tasks
         additional_links:
           - title:  Paper
@@ -122,7 +138,7 @@ content:
           - title:  Code
             icon: fab fa-github
             url: https://gitlab.com/ViDA-NYU/d3m/alphad3m
-          - title:  Video Demo
+          - title:  Demo Video
             icon: fa fa-youtube-play
             url: https://www.youtube.com/watch?v=9qJvOUOh2zM
         description: | 
@@ -139,7 +155,7 @@ content:
           - title:  Code
             icon: fab fa-github
             url: https://github.com/VIDA-NYU/PipelineVis
-          - title:  Video Demo
+          - title:  Demo Video
             icon: fa fa-youtube-play
             url: https://www.youtube.com/watch?v=2WSYoaxLLJ8
         description: | 
