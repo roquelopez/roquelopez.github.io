@@ -99,7 +99,7 @@ content:
           AlphaD3M, an AutoML library implemented in Python that automatically synthesizes ML end-to-end pipelines for different machine learning tasks and different data types.
           Through an API, it allows the users to explore the input data and the derived pipelines, as well as customized the pipelines.
 
-          This tool is part of NYU's implementation of the <a href="href="https://vida-nyu.github.io/D3M" target="_blank"> Data Driven Discovery project (D3M), DARPA</a>.
+          This tool is part of NYU's implementation of the <a href="https://vida-nyu.github.io/D3M" target="_blank"> Data Driven Discovery project (D3M), DARPA</a>.
 
   - title: Publications # Title for the section
     layout: list # Type of content section (list/text)
