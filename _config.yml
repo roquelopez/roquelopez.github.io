@@ -183,7 +183,7 @@ content:
     content:
       - layout: left
         title: São Paulo University
-        caption: 2013 - 2015
+        caption:
         sub_title: MSc in Computer Science
         quote: 
         description: | # this will include new lines to allow paragraphs
@@ -193,7 +193,7 @@ content:
 
       - layout: left
         title: San Agustin National University
-        caption: 2006 - 2010
+        caption:
         sub_title: BSc Computer Science
         quote: 
         description: | # this will include new lines to allow paragraphs
