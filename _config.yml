@@ -189,8 +189,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           **Monograph title:** <a href="http://www.teses.usp.br/teses/disponiveis/55/55134/tde-07012016-114430/" target="_blank">Automatic Aspect-Based Opinion Summarization Methods</a>
 
-          In this master’s project are presented investigations to generate extractive and abstractive summaries of opinions using an aspect-based approach. Besides using known methods in the area, it also was proposed two new methods for Portuguese language which got the best performance in the experiments.
-
+          This master's thesis investigates extractive and abstractive opinion summarization using an aspect-based approach. In addition to applying existing methods, two new approaches for Portuguese were proposed, achieving the best performance in the experiments.
       - layout: left
         title: San Agustin National University
         caption:
@@ -199,10 +198,8 @@ content:
         description: | # this will include new lines to allow paragraphs
           **Monograph title:** <a href="/resource/RoqueLopez_BScThesis.pdf" target="_blank">Medical Documents Classification based on Keywords using Semantic Information</a>
 
-          In this monograph, it is presented a method to classify medical documents which improves the results of Naive Bayes and Rocchio algorithm. This method, in addition to considering statistical information, taking into account the semantic relatedness between the keywords of medical documents.
+          This thesis presents a method for classifying medical documents that improves over existing approaches. The method combines statistical information with semantic relatedness between document keywords.
 
-
-  
   - title: CV
     layout: text
     content: | # this will include new lines to allow paragraphs
